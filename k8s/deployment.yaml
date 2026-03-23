@@ -14,7 +14,7 @@ spec:
     spec: 
       containers:
       - name: ci-cd-demo
-        image: gowdaamith/ci-cd-demo1:latest
+        image: gowdaamith/ci-cd-demo:latest
         ports:
         - containerPort: 3000
 
